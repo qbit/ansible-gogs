@@ -1,0 +1,6 @@
+---
+
+- name: GOGS servers
+  hosts: all
+  roles:
+    - gogs
